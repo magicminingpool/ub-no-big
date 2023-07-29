@@ -1,0 +1,14 @@
+# Files
+.lock-wscript
+package-lock.json
+
+# Filetypes
+.*.swp
+
+# Paths
+/build
+/node_modules
+/coverage
+/binding
+/.nyc_output
+/docker
